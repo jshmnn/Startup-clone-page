@@ -181,8 +181,6 @@ font-weight: 300;
 	font-size: 1.563rem;
 }
 
-/**FOOTER**/
-/**Responsive-Design*/
 /*Button*/
 button {
     width: 9.688rem;
@@ -235,7 +233,7 @@ div {
 	min-width: 37.5
 }
 
-}
+
 ol, ul {
 	list-style: none;
 }
@@ -248,4 +246,6 @@ img[Attributes Style] {
 	width: 127px;
 	height: 127px;
 }
+
+
 
